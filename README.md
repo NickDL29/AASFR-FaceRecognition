@@ -37,22 +37,19 @@ LINKS:-
 Member1:NISCHAY GUPTA
 GitHub: https://github.com/NickDL29
 LinkedIn: https://www.linkedin.com/in/nischay29/
-Resume: [nischayresume.pdf](https://github.com/jahnviseth/codeabode/files/6135503/nischayresume.pdf)
+Resume: [nischayresume.pdf](https://nickdl29.github.io/nick-portfolio/static/media/resume.e9572281022b4f270a97.pdf)
 
 Member2: DIVYANSH KUMAR MAHAVAR
 GitHub: https://github.com/divyanshkm
 LinkedIn: https://www.linkedin.com/in/divyanshkm/
-Resume: [divyanshresume.pdf](https://github.com/jahnviseth/codeabode/files/6135493/divyanshresume.pdf)
 
 Member3: JAHNVI SETH
 GitHub: https://github.com/jahnviseth
 LinkedIn: www.linkedin.com/in/jahnvi-seth-241638202
-Resume: [jahnviresume.pdf](https://github.com/jahnviseth/codeabode/files/6135566/jahnviresume.pdf)
 
 Member4: VIRTI NIKHILBHAI MEHTA
 GitHub: http://github.com/m-virti
 LinkedIn: https://www.linkedin.com/in/virti-mehta-325716202
-Resume: [virtiresume.pdf](https://github.com/jahnviseth/codeabode/files/6135926/virtiresume.pdf)
 
 INSTRUCTIONS:-
 Run run.cmd file first to install necessary libraries. If there is an issue with it then you may open run.cmd file in notepad and then execute statements one by one on cmd manually.
