@@ -33,20 +33,21 @@ VIDEO OF OUR PROJECT:
 https://drive.google.com/file/d/1Pt0YhJkeh-52Xe-TDqE1d96jeAEU8ERW/view?usp=sharing
 
 LINKS:-
-Member1: JAHNVI SETH
-GitHub: https://github.com/jahnviseth
-LinkedIn: www.linkedin.com/in/jahnvi-seth-241638202
-Resume: [jahnviresume.pdf](https://github.com/jahnviseth/codeabode/files/6135566/jahnviresume.pdf)
 
-Member2:NISCHAY GUPTA
+Member1:NISCHAY GUPTA
 GitHub: https://github.com/NickDL29
 LinkedIn: https://www.linkedin.com/in/nischay29/
 Resume: [nischayresume.pdf](https://github.com/jahnviseth/codeabode/files/6135503/nischayresume.pdf)
 
-Member3: DIVYANSH KUMAR MAHAVAR
+Member2: DIVYANSH KUMAR MAHAVAR
 GitHub: https://github.com/divyanshkm
 LinkedIn: https://www.linkedin.com/in/divyanshkm/
 Resume: [divyanshresume.pdf](https://github.com/jahnviseth/codeabode/files/6135493/divyanshresume.pdf)
+
+Member3: JAHNVI SETH
+GitHub: https://github.com/jahnviseth
+LinkedIn: www.linkedin.com/in/jahnvi-seth-241638202
+Resume: [jahnviresume.pdf](https://github.com/jahnviseth/codeabode/files/6135566/jahnviresume.pdf)
 
 Member4: VIRTI NIKHILBHAI MEHTA
 GitHub: http://github.com/m-virti
